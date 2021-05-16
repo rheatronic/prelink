@@ -1,0 +1,35 @@
+; Kaydara Lens Calibration File
+; FOV Zoom Step Vector
+; (Min->Max)
+; Flipped
+0.0  0.25  0.5  0.75  1.0
+
+; FOV Focus Step Vector
+; (Min->Max)
+0.0  0.5  1.0
+
+; FOV Values (X: Focus, Y: Zoom, Units: Radians)
+; (Min,Min)->(Max,Max)
+0.061   0.039   0.018   
+0.086   0.062   0.037   
+0.108   0.082   0.056   
+0.137   0.109   0.080   
+0.179   0.148   0.117 
+
+; Nodal Zoom Step Vector
+; (Min->Max)
+; Flipped
+0.0  0.25  0.5  0.75  1.0
+
+; Nodal Focus Step Vector
+; (Min->Max)
+0.0  0.5  1.0
+
+; Nodal Offset (Units: m)
+; (Min,Min)->(Max,Max)
+-0.314   -0.494   -1.212   
+-0.224   -0.318   -0.627   
+-0.177   -0.248   -0.447   
+-0.124   -0.161   -0.283   
+-0.102   -0.131   -0.199   
+
